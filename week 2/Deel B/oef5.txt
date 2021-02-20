@@ -1,0 +1,8 @@
+oef 5:
+--------
+A: de top van grapfiek 2 ligt verder dan die van 1 dus is
+het gemidelde groter van grafiek 1
+
+Grafiek 2 ligt ook lager wat een grotere spreiding aanduid waardoor
+we weten dat de standaardafwijking van de 2de grafiek groter is
+

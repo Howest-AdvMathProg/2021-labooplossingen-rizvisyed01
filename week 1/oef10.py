@@ -60,6 +60,7 @@ print("5: Hij is voor ", dist_points(intersect_39[0], intersect_39[1]), "uren bo
 
 # 6.Als t = 0 het vertrek zou moeten zijn, hoe ziet het nieuwe functievoorschrifter dan uit?
 # Wat gebeurt er met de grafiek van de functie?
+
 # Dit zal zorgen dat de grafiek opschuift naar rechts
 # het linkse nulpunt moet 0 worden dus +9.5, dit analoog bij de rechtse wat dus 14.5 wordt
 # de afstand hiertussen is dus nog steeds 14.5 wat klopt met oef 2

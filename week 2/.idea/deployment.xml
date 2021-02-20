@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData" serverName="Raspi" remoteFilesAllowedToDisappearOnAutoupload="false">
+    <serverData>
+      <paths name="Raspi">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/home/pi/Documents/sensorsAndStuff" local="$PROJECT_DIR$/../../../Sensors and stuff/labo" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+    </serverData>
+  </component>
+</project>
